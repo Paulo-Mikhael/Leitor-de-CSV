@@ -13,6 +13,7 @@
 <h2>Tecnologias 💻</h2>
     <div>
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+        <img  width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
     </div>
 <h2>Outros Links 🔗</h2>
     <a target="_blank" href="https://paulo-mikhael.github.io/Portifolio">Portifolio</a><br>
