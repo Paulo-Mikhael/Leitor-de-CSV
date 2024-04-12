@@ -7,9 +7,10 @@
     pedida automatizar esse processo.</h3>
 <h2>Importante ❗</h2>
     <h3>Faça download da pasta com os arquivos necessários para baixar o executável 
-    <a href="https://drive.google.com/drive/folders/1yrr1cTxUUFBhCG8WCc7H2laqag3qAJ6X?usp=drive_link">clicando aqui</a>, ou na área 'Outros Links';<br>
-    Por padrão o software cria dois arquivos com dados para teste (clientes.csv e TabelaClientes.xlsx) na pasta do usuário atual (C:/Users/[Usuário]/). Porém na área de configurações é 
-    possível mudar o diretório do CSV e da planilha desejada.</h3>
+    <a href="https://drive.google.com/drive/folders/1yrr1cTxUUFBhCG8WCc7H2laqag3qAJ6X?usp=drive_link">clicando aqui</a>, ou na área 'Outros Links';<br><br>
+    Baixe o executável pelo 'setup.exe' localizado dentro da pasta baixada, certifique-se de ter o 'Setup1.msi' na mesma pasta;<br><br>
+    Por padrão o software cria dois arquivos com dados para teste (clientes.csv e TabelaClientes.xlsx) na pasta do usuário atual (C:/Users/[Usuário]/); <br><br>
+    Na área de configurações é possível mudar o diretório do CSV e da planilha desejada.</h3>
 <h2>Tecnologias 💻</h2>
     <div>
         <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
